@@ -1,0 +1,108 @@
+DECRICAO DADOS
+PROGR: Número do programa do navio.
+DAT_PRATICAGEM: Data de atuação do prático.
+NAVIO: Nome do navio.
+NOM_ESPECI_NAVIO: Especificação do navio.
+NOM_PAIS: País de origem do navio.
+COD_DUV: Código DUV (Documento Único Virtual).
+NUM_VIAGEM_ALFAND: Número de viagem alfandegária.
+QTD_PASSAGEIRO_DESEMBARQ: Quantidade de passageiros desembarcados.
+QTD_PASSAGEIRO_EMBARQ: Quantidade de passageiros embarcados.
+QTD_PASSAGEIRO_TRANSITO: Quantidade de passageiros em trânsito.
+QTD_TERNO: Quantidade de turnos.
+DAT_INICIO_OPERACAO: Data de início da operação.
+MED_COMPRIM: Comprimento do navio.
+MED_TRL: Calado (TRL) do navio.
+MED_TPB: Tonelagem de Peso Bruto (TPB) do navio.
+MED_TPC: Tonelagem de Porte Bruto (TPC) do navio.
+NUM_IMO: Número de Identificação Marítima (IMO).
+OPERADOR: Operador da embarcação.
+ARMADOR: Armador da embarcação.
+AFRETADOR: Afretador da embarcação.
+AGENTE_ARMADOR: Agente do armador.
+CARGA_PREDOMINANTE: Tipo de carga predominante.
+NOM_EMBALAGEM: Nome da embalagem.
+DCR_ESPECIE: Descrição da espécie de carga.
+DCR_GRUPO_MERCADORIA: Descrição do grupo de mercadoria.
+TIP_NATUREZA: Tipo de natureza da carga.
+TIP_SENTIDO_VIAGEM: Tipo de sentido da viagem.
+LISTA_ESPERA: Lista de espera.
+LISTA_EQUIPAMENTOS: Lista de equipamentos.
+PROCEDENCIA_DESTINO: Procedência e destino.
+PORTO_ORI_DEST: Porto de origem ou destino.
+SENTIDO: Sentido da viagem.
+DCR_OBS: Descrição de observações.
+DAT_INI_OPERACAO: Data de início da operação (duplicada).
+DAT_FIM_OPERACAO: Data de fim da operação.
+VOLUMES: Volume de carga.
+TONELADAS_VOLUMES: Tonelagem dos volumes.
+NUM_ESTADIA_BERCO: Número de estadia no berço.
+DCR_BERCO: Descrição do berço.
+COD_BERCO: Código do berço.
+FLG_SHIFT_INICIO: Flag de início de turno.
+FLG_SHIFT_FIM: Flag de fim de turno.
+DCR_TIP_MANOBRA_INICIO: Descrição do tipo de manobra no início.
+DCR_TIP_MANOBRA_FIM: Descrição do tipo de manobra no fim.
+ATRACACAO: Data de atracação.
+PERIODO_MANOBRA_ATRAC: Período da manobra de atracação.
+MED_PROA_ATRAC: Comprimento da proa na atracação.
+MED_POPA_ATRAC: Comprimento da popa na atracação.
+REBOCADORES_ATRAC: Rebocadores na atracação.
+DESATRACACAO: Data de desatracação.
+PERIODO_MANOBRA_DESATRAC: Período da manobra de desatracação.
+MED_POPA_DESATRAC: Comprimento da popa na desatracação.
+MED_PROA_DESATRAC: Comprimento da proa na desatracação.
+REBOCADORES_DESATRAC: Rebocadores na desatracação.
+TEMPO_PARALISACAO: Tempo de paralisação.
+PERIODO_ESTADIA: Período de estadia.
+FRANQUIA_UTILIZADA: Franquia utilizada.
+PERIODO_COBRADO: Período cobrado.
+TIPO_NAVEGACAO: Tipo de navegação.
+DAT_ETA: Data estimada de chegada (ETA).
+UNIDADEPORTUÁRIA: Unidade portuária.
+SENTIDO: Sentido da viagem.
+NAVEGACAO: Tipo de navegação.
+PORTO_ESTRANGEIRO: Porto estrangeiro.
+PAIS_PORTO_ESTRANG: País do porto estrangeiro.
+NAVIO: Nome do navio.
+EMBARCADOR: Embarcador da carga.
+CNPJ_EMBARCADOR: CNPJ do embarcador.
+PROGR: Número do programa do navio.
+NUM_ATRAC: Número de atracação.
+BERCO: Berço de atracação.
+ATRACACAO: Data de atracação.
+MES_ATRAC: Mês de atracação.
+ANO_ATRAC: Ano de atracação.
+DESATRACACAO: Data de desatracação.
+MES_DESAT: Mês de desatracação.
+ANO_DESAT: Ano de desatracação.
+OPERADOR: Operador da embarcação.
+CAPITULO: Capítulo (código de carga).
+SECAO: Seção (código de carga).
+NCM: Nomenclatura Comum do Mercosul (código de carga).
+DESCRICAO_NCM: Descrição do NCM.
+DESCRICAO_MANIFESTO: Descrição do manifesto de carga.
+CONHECIMENTO: Documento de conhecimento de carga.
+EXPORTADOR_IMPORTADOR: Nome do exportador ou importador.
+CNPJ_EXPORTADOR_IMPORTADOR: CNPJ do exportador ou importador.
+ESTADO: Estado (localização).
+MUNICIPIO: Município (localização).
+TIPO_CARGA: Tipo de carga.
+PCK: Embalagem (em pacotes).
+CNT: Número de contêineres.
+NUM_EQUIP: Número do equipamento.
+TEU: Unidade equivalente a vinte pés (TEU).
+33. WTKG: Peso bruto (em quilogramas).
+VALOR_FOB: Valor FOB (Free on Board).
+GATE_IN: Data de entrada no porto.
+MES_GATE_IN: Mês de entrada no porto.
+ANO_GATE_IN: Ano de entrada no porto.
+GATE_OUT: Data de saída do porto.
+MES_GATE_OUT: Mês de saída do porto.
+ANO_GATE_OUT: Ano de saída do porto.
+ESTADIA: Período de estadia no porto.
+Campo1: Campo adicional 1 (sem descrição).
+SEQUENCIA: Sequência do registro.
+TARA: Tara (peso do veículo vazio).
+GRUPOANTAQ: Grupo ANTAQ.
+UNIDADEPORTUÁRIA: Unidade portuária.
